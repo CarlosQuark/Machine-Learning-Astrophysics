@@ -1,0 +1,7 @@
+
+Aquí hablaremos de la información más relevante dentro del proyecto de Machine Learning.
+
+
+Primeramente, publicaremos el URL para la detección de exoplanetas de carácter privado en este momento. 
+
+Mencionaremos los aspectos más impotantes de las curvas de luz y la limpieza de los datos para nuestro proyecto. 
