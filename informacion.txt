@@ -5,3 +5,5 @@ Aquí hablaremos de la información más relevante dentro del proyecto de Machin
 Primeramente, publicaremos el URL para la detección de exoplanetas de carácter privado en este momento. 
 
 Mencionaremos los aspectos más impotantes de las curvas de luz y la limpieza de los datos para nuestro proyecto. 
+Recordar que estos cambios tienen una duración de aproximadamente dos meses y medio. La intención es presentar
+un proyecto a más tardar el 23 de mayo del 2023.
